@@ -16,7 +16,9 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliperodrigues09/)
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/felipern09)
 
 # 📊 Github Stats
 <a href="https://github.com/felipern09/github-readme-stats">
@@ -26,5 +28,5 @@
   <img height=150 align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipern09&layout=compact&theme=dark&langs_count=8&card_width=120" />
 </a>
 
-- 🔭 I’m currently working on
+# 📚 I’m currently working on
 
