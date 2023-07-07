@@ -11,7 +11,7 @@
 
 
 # 📊 Github Stats
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipern09&show_icons=true&theme=radical)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipern09&show_icons=true&theme=dark)
 
 - 🔭 I’m currently working on
 
