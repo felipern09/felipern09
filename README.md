@@ -1,7 +1,11 @@
 # 👋 Hello!
+I'm Felipe Rodrigues, a passionate software developer and tech enthusiast. I’m currently making my career transition from HR manager to software developer. 
+With over 9 years of experience in business field, I've had the opportunity to work on various projects and could experience how much we can achieve with technology. So I decided to work my way thru technology and start to learn witch solutions I could develop to help me and my co-workers day-to-day tasks.
 
 
 # 🚀 Expertise
+My primary focus is on full-stack development, although I already developed some desktop solutions too. I have started to learn Python and got experiences with data analysis, front and backend technologies and automations. As well I’m also improving my skills of HTML, CSS and JavaScript. 
+I’m creative and fast learner. I love working on technology because it allows me to combine my creativity with problem-solving skills to deliver exceptional user experiences.
 
 
 # 💻 Tech Stack
