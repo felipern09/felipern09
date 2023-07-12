@@ -38,4 +38,4 @@ I’m creative and fast learner. I love working on technology because it allows 
 </a>
 
 # 📚 I’m currently working on
-
+All my codes are still in the development phase. Although some are already in production, I am constantly learning new skills in programming and refactoring the codes. Currently, my work is focused on automations using Python modules Tkinter, Pandas, Openpyxl, PyAutogui and others. And, also, in a fullstack solution using Flask, HTML, CSS and Javascript.
